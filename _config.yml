@@ -1,6 +1,6 @@
 title: Alan Kan's CV
 url: "https://ankitsultana.com"
-baseurl: "/cv"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/cv/"
+   link: "/researcher/"
  - name: "Download Resume"
    link: "resume.pdf"
  - name: "Contact"
