@@ -3,24 +3,12 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [alankan976@gmail.com](mailto:alankan976@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+852-60985100](tel:+852-60985100)
 
 ---
-
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](https://www.linkedin.com/in/alan-kan-83021b61/)
+2. [GitHub](https://github.com/alank976)
