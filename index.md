@@ -6,8 +6,9 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I am a technology enthusiast from hybrid background of financial engineering and computer science. 
-Also a big fan of active and well-etablished OSS like Spring, Kotlin, Julia, you name it!
+Hi! I am a technology enthusiast, come from a diverse background, with basic quantitative knowledge and hands-on application development experiences.  
+Also a big fan of active and well-established OSS like Spring Boot, Kotlin, Julia, RxJava/Spring Reactor, you name it!
+Care about best practices, software craftmanship, and progressive improvement about myself, team, processes
 
 # Work Experence
 ## Morgan Stanley
@@ -15,7 +16,7 @@ Also a big fan of active and well-etablished OSS like Spring, Kotlin, Julia, you
 | *Equity Swaps Trading Developer - Associate* | | Dec 2018 - Present | Hong Kong |
 
 - Develop applications for Delta One Structured Products trading globally, primarily on OTC equity swap trade capturing and analytics tools
-- Technology stack: Java 8, Spring, KDB, C#, Ivy
+- Technology stack: Java 8, Spring Framework, KDB, C#, Ivy, SOAP, Perforce
 
 ---
 ## Société Générale
@@ -45,8 +46,8 @@ Technology stack:
   - Spring Boot, Maven, Google Guava
   - SQL Server, MongoDB, Flyway
   - Spring Cloud, Netflix Zuul, Feign, Hystrix, HashiCorp Consul, ELK (Elastic Logstash Kibana), OAuth2, Swagger, InfluxDB, micrometer
-  - Mockito, Cucumber, mockk, AssertJ
-  - git, Jenkins, Linux
+  - Mockito, Cucumber, JUnit 4&5, mockk, AssertJ
+  - git, github, Jenkins, Linux
   - Jupyter notebook, pandas, qgrid, Anaconda
 - Technical methodologies and architectures: DDD (Domain Driven Design), CQRS, Event Sourcing, TDD, BDD, RESTful API, microservices, high resiliency and availability
 
