@@ -7,7 +7,9 @@ layout: default
 <img class="profile-picture" src="photo.jpg">
 
 Hi! I am a technology enthusiast, comes from a diverse background, with basic quantitative knowledge and hands-on software development experiences. 
+
 I love to keep pace with mass geeky communities (esp. OSS) by reading articles, tech blogs, podcasts, etc so that I won't miss too many great technologies I can leverage to deliver cost-effective solution. And most importantly, funny stories about developer life. 
+
 I also care (very much) about best practices, software craftmanship, and progressive improvement about myself, team, processes. 
 
 # Work Experence
