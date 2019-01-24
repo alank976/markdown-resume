@@ -6,9 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I am a technology enthusiast, come from a diverse background, with basic quantitative knowledge and hands-on application development experiences.  
-Also a big fan of active and well-established OSS like Spring Boot, Kotlin, Julia, RxJava/Spring Reactor, you name it!
-Care about best practices, software craftmanship, and progressive improvement about myself, team, processes
+Hi! I am a technology enthusiast, comes from a diverse background, with basic quantitative knowledge and hands-on software development experiences. I love to keep pace with mass geeky communities (esp. OSS) by reading articles, tech blogs, podcasts, etc so that I won't miss too many great technologies I can leverage to deliver cost-effective solution. And most importantly, funny stories about developer life. Also care (very much) about best practices, software craftmanship, and progressive improvement about myself, team, processes. 
 
 # Work Experence
 ## Morgan Stanley
@@ -87,6 +85,19 @@ Numerical Methods, Radial Basis Function Method in Option Pricing
 Internet Computing, OOP, Business Process Management System
 
 ---
+# Interested Areas & Hobbies
+- Reactive Programming
+  - Spring WebFlux, Reactor
+- Docker and cloud
+  - Went through tutorials in Pluralsight to be ready to embrace new efficient DevOps technology.
+  - Trying docker hub and kubenetes for a toy project
+- Data-intensive computing
+  - Studied big data course during master degree which introduced MapReduce, PigLatin, and Spark;
+  - Completed Kafka online tutorial in Pluralsight
+- Machine Learning
+  - Taking initiative to learn in Courseera and participating side projects to learn with the company community.
+
+---
 # Extra-Curricular Activities
 ## Quant Finance Lab of CASH Algo Finance Group (CAFG)
 
@@ -104,18 +115,6 @@ Shortlisted for final round (12 teams picked out of 70)
 ## The 7th Wuhua Hall Student Association
 
 | *Chairperson* | Nov 2008 – Oct 2009 |
-
----
-# Interested Areas
-- Reactive Programming
-  - Spring WebFlux, Reactor
-- Docker
-  - Went through tutorials in Pluralsight to be ready to embrace new efficient DevOps technology.
-- Data-intensive computing
-  - Studied big data course during master degree which introduced MapReduce, PigLatin, and Spark;
-  - Completed Kafka online tutorial in Pluralsight
-- Machine Learning
-  - Taking initiative to learn in Courseera and participating side projects to learn with the company community.
 
 ---
 # Language Skills
