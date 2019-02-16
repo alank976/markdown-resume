@@ -8,17 +8,17 @@ layout: default
 
 Hi! I am a technology enthusiast, comes from a diverse background, with basic quantitative knowledge and hands-on software development experiences. 
 
-I love to keep pace with mass geeky communities (esp. OSS) by reading articles, tech blogs, podcasts, etc so that I won't miss too many great technologies I can leverage to deliver cost-effective solution. And most importantly, funny stories about developer life. 
+I love to keep pace with mass geeky communities (esp. OSS) via tech blogs, podcasts, etc so that I won't miss too many great technologies I can leverage to deliver cost-effective solution. And more importantly, funny stories about developer life. 
 
-I also care (very much) about best practices, software craftmanship, and progressive improvement about myself, team, processes. 
+I also care (very much) about best practices, software craftsmanship, and progressive improvement about everying around me. 
 
 # Work Experence
 ## Morgan Stanley
 
-| *Equity Swaps Trading Developer - Associate* | | Dec 2018 - Present | Hong Kong |
+| *Equity Swaps Trading Developer - Associate* | | Dec 2018 - Feb 2019 | Hong Kong |
 
 - Develop applications for Delta One Structured Products trading globally, primarily on OTC equity swap trade capturing and analytics tools
-- Technology stack: Java 8, Spring Framework, KDB, C#, Ivy, SOAP, Perforce
+- Technology stack: Java 8, Spring Framework, KDB, Ivy, SOAP, Perforce
 
 ---
 ## Société Générale
@@ -28,7 +28,7 @@ I also care (very much) about best practices, software craftmanship, and progres
 - Develop applications for synthetic prime brokerage, Delta one and Equity finance business in agile software development manner
 - Work closely with front office to understand user requirements and identify business priorities
 - Deliver quality solution to support business growth and also care code cleanliness, and maintainability
-- Leverage latest technologies and software craftmanship methodologies to further improve quality of end product and also team productivity
+- Leverage latest technologies and software craftsmanship methodologies to further improve quality of end product and also team productivity
 
 ---
 
