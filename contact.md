@@ -10,5 +10,5 @@ is_contact: true
 ---
 ## Social
 
-1. [LinkedIn](https://www.linkedin.com/in/alan-kan-83021b61/)
+1. [LinkedIn](https://www.linkedin.com/in/alankan976)
 2. [GitHub](https://github.com/alank976)

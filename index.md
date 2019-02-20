@@ -19,8 +19,8 @@ I also care (very much) about best practices, software craftsmanship, and progre
 
 - Develop applications for Delta One Structured Products trading globally, primarily on OTC equity swap trade capturing and analytics tools
 - Technology stack: Java 8, Spring Framework, KDB, Ivy, SOAP, Perforce
-- Leaving reason: to pursue other opportunity that 
-  1. values quality as important as business requirement
+- Leaving reasons: to pursue other opportunity to work in an environment that: 
+  1. values quality and maintainability as important as business requirement
   2. discourages ceremonies and encourages automation
   3. always connect to outside communities and has a great sense of retrospective introspection
 
@@ -98,12 +98,12 @@ Internet Computing, OOP, Business Process Management System
   - Spring WebFlux, Reactor
 - Docker and cloud
   - Went through tutorials in Pluralsight to be ready to embrace new efficient DevOps technology.
-  - Trying docker hub and kubenetes for a toy project
+  - Currently work on a toy project with DockerHub and Kubenetes
 - Data-intensive computing
   - Studied big data course during master degree which introduced MapReduce, PigLatin, and Spark;
   - Completed Kafka online tutorial in Pluralsight
 - Machine Learning
-  - Taking initiative to learn in Courseera and participating side projects to learn with the company community.
+  - Taking initiative to learn in Courseera and participating side projects to learn with the SocGen community.
 
 ---
 # Extra-Curricular Activities
