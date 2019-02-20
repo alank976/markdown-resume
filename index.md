@@ -23,6 +23,7 @@ I also care (very much) about best practices, software craftsmanship, and progre
   1. values quality as important as business requirement
   2. discourages ceremonies and encourages automation
   3. always connect to outside communities and has a great sense of retrospective introspection
+
 ---
 ## Société Générale
 
