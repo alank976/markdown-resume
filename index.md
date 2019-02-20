@@ -19,7 +19,10 @@ I also care (very much) about best practices, software craftsmanship, and progre
 
 - Develop applications for Delta One Structured Products trading globally, primarily on OTC equity swap trade capturing and analytics tools
 - Technology stack: Java 8, Spring Framework, KDB, Ivy, SOAP, Perforce
-
+- Leaving reason: to pursue other opportunity that 
+  1. values quality as important as business requirement
+  2. discourages ceremonies and encourages automation
+  3. always connect to outside communities and has a great sense of retrospective introspection
 ---
 ## Société Générale
 
