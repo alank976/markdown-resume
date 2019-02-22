@@ -55,7 +55,7 @@ Technology stack:
   - Mockito, Cucumber, JUnit 4&5, mockk, AssertJ
   - git, github, Jenkins, Linux
   - Jupyter notebook, pandas, qgrid, Anaconda
-- Technical methodologies and architectures: DDD (Domain Driven Design), CQRS, Event Sourcing, TDD, BDD, RESTful API, microservices, high resiliency and availability
+- Technical methodologies and architectures: DDD (Domain Driven Design), CQRS, Event Sourcing, TDD, BDD, RESTful API, microservices, CI/CD
 
 ---
 ## Standard Chartered Bank
