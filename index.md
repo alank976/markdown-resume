@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I am a technology enthusiast, comes from a diverse background, with basic quantitative knowledge and hands-on software development experiences. 
+Hi! I am a technology enthusiast, come from a diverse background, with basic financial knowledge and hands-on software development experiences. 
 
-I love to keep pace with mass geeky communities (esp. OSS) via tech blogs, podcasts, etc so that I won't miss too many great technologies I can leverage to deliver cost-effective solution. And more importantly, funny stories about developer life. 
+I love to keep pace with mass geeky communities (esp. OSS) via tech blogs, news, podcasts, etc so that I won't miss too many great technologies I can leverage to deliver effectively. And more importantly, funny stories about development experience. 
 
-I also care (very much) about best practices, software craftsmanship, and progressive improvement about everying around me. 
+I also care (very much) about code quality, best practices, software craftsmanship. and keen on progressive improvement about me, my team, and everying around me. 
 
 # Work Experence
 ## Morgan Stanley
@@ -50,11 +50,11 @@ Technology stack:
 - Programming/Scripting languages: Java 8, Kotlin, Python, VBA, Angular 5, shell script
 - Technology stack and frameworks: 
   - Spring Boot, Maven, Google Guava
-  - SQL Server, MongoDB, Flyway
-  - Spring Cloud, Netflix Zuul, Feign, Hystrix, HashiCorp Consul, ELK (Elastic Logstash Kibana), OAuth2, Swagger, InfluxDB, micrometer
+  - MS SQL Server, MongoDB, Flyway
+  - Spring Cloud, Netflix Zuul, Feign, Hystrix, HashiCorp Consul, ELK (Elastic Logstash Kibana), OAuth2, Swagger, InfluxDB/Chronograf
   - Mockito, Cucumber, JUnit 4&5, mockk, AssertJ
   - git, github, Jenkins, Linux
-  - Jupyter notebook, pandas, qgrid, Anaconda
+  - Jupyter notebook, pandas, qgrid, conda
 - Technical methodologies and architectures: DDD (Domain Driven Design), CQRS, Event Sourcing, TDD, BDD, RESTful API, microservices, CI/CD
 
 ---
