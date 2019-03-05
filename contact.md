@@ -12,3 +12,4 @@ is_contact: true
 
 1. [LinkedIn](https://www.linkedin.com/in/alankan976)
 2. [GitHub](https://github.com/alank976)
+3. [AngelList](https://angel.co/alank976)
