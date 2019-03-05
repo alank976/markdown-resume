@@ -18,8 +18,6 @@ sass:
 nav:
  - name: "About"
    link: "/markdown-resume/"
- - name: "Download Resume"
-   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
  - name: "Hobbies"
