@@ -10,7 +10,7 @@ Hi! I am a technology enthusiast, come from a diverse background, with basic fin
 
 I love to keep pace with mass geeky communities (esp. OSS) via tech blogs, news, podcasts, etc so that I won't miss too many great technologies I can leverage to deliver effectively. And more importantly, funny stories about development experience. 
 
-I also care (very much) about code quality, best practices, software craftsmanship. and keen on progressive improvement about me, my team, and everying around me. 
+I also care (very much) about code quality, best practices, software craftsmanship. and keen on progressive improvement about me, my team, and everything around me. 
 
 # Work Experence
 ## Morgan Stanley
