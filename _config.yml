@@ -22,3 +22,6 @@ nav:
    link: "contact"
  - name: "Hobbies"
    link: "hobbies"
+ - image: https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat
+   link: https://stackshare.io/alank976/my-stack
+   alt: StackSahre

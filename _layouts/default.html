@@ -64,6 +64,11 @@
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
                         <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                    {% else if x.image %}
+                        <li class="alignable pull-left nav-list">
+                            <a href="{{ x.link }}">
+                                <img src="{{ x.image }}" alt="{{ x.alt }}">
+                            </a>
                     {% else %}
                         <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
                     {% endif %}
