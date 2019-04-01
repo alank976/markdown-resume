@@ -12,6 +12,9 @@ I love to keep pace with mass geeky communities (esp. OSS) via tech blogs, news,
 
 I also care (very much) about code quality, best practices, software craftsmanship. and keen on progressive improvement about me, my team, and everything around me. 
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/alank976/my-stack)
+
+
 # Work Experence
 ## Morgan Stanley
 
