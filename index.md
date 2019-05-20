@@ -16,7 +16,7 @@ I also care (very much) about code quality, best practices, software craftsmansh
 
 ## YouTrip
 
-| *Software Engineer* | | Apr 2019 - Present | Hong Kong |
+| *Software Engineer* | |||| | Apr 2019 - Present | Hong Kong |
 
 - Technology stack: Go, Kafka, grpc, Kubernetes, BuildKite, AWS
 
