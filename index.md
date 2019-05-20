@@ -10,9 +10,17 @@ Hi! I am a technology enthusiast, come from a diverse background, with basic fin
 
 I love to keep pace with mass geeky communities (esp. OSS) via tech blogs, news, podcasts, etc so that I won't miss too many great technologies I can leverage to deliver effectively. And more importantly, funny stories about development experience. 
 
-I also care (very much) about code quality, best practices, software craftsmanship. and keen on progressive improvement about me, my team, and everything around me. 
+I also care (very much) about code quality, best practices, software craftsmanship. and keen on progressive improvement about me, my team, and everything around me. Keen on explaining why I would like to refactor.
 
 # Work Experence
+
+## YouTrip
+
+| *Software Engineer* | | Apr 2019 - Present | Hong Kong |
+
+- Technology stack: Go, Kafka, grpc, Kubernetes, BuildKite, AWS
+
+
 ## Morgan Stanley
 
 | *Equity Swaps Trading Developer - Associate* | | Dec 2018 - Feb 2019 | Hong Kong |
@@ -20,7 +28,8 @@ I also care (very much) about code quality, best practices, software craftsmansh
 - Develop applications for Delta One Structured Products trading globally, primarily on OTC equity swap trade capturing and analytics tools
 - Technology stack: Java 8, Spring Framework, KDB, Ivy, SOAP, Perforce
 - Leaving reasons: to pursue other opportunity to work in an environment that: 
-  1. values quality and maintainability as important as business requirement
+  1. values quality and maintainability as important as business requirement ([recognition of the importance of technical excellence](https://martinfowler.com/articles/agile-aus-2018.html))
+  
   2. discourages ceremonies and encourages automation
   3. always connect to outside communities and has a great sense of retrospective introspection
 
