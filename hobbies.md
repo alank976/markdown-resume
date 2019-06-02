@@ -4,7 +4,8 @@ is_contact: false
 ---
 
 ```kotlin
-val handson = ["Kotlin", "Java>8", "python3", "SpringBoot", "Microservices", "real agile", "DDD", "TDD", "BDD"]
-val trying = ["docker", "k8s", "Spring reactor/RxJava", "Vue", "juiia", "machine learning", "GraalVM", "gRPC"]
-val subscriptions = ["infoq", "Soft Skills Engineering Podcast", "whatever tech blogs"]
+val handsOn = ["Kotlin", "Java>8", "python3", "SpringBoot", "Microservices", "real agile", "DDD", "TDD", "BDD", "golang", "docker", "k8s", "grpc"]
+val trying = ["Micronaut", "GraalVM", "reactive stream", "Spring reactor/RxJava", "Vue", "rust"]
+val aBitHyped = ["rustlang", "WebAssembly", "wasmer"]
+val subscriptions = ["infoq", "Soft Skills Engineering Podcast", "medium", "dev.to", "whatever tech blogs"]
 ```
