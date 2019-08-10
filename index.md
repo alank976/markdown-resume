@@ -25,7 +25,7 @@ Also, I am a big fan of code quality, best practices, software craftsmanship and
   - Microservices/Containers: Docker, Kubernetes, AWS
   - CI/CD: gradle, Jfrog, SonarQube, CircleCI, Spinnaker, HashiCorp Vault
   - others: python, Swagger, Elastic, Kibana
-  
+
 ---
 ## YouTrip
 
@@ -34,7 +34,7 @@ Also, I am a big fan of code quality, best practices, software craftsmanship and
 - Developed microservices for diffenrt FinTech business domains, e.g. FX, reporting, etc in event-driven architectural design
 - Promoted best practices about Agile, XP methodologies
 - Worked with the rest in the company altogether, like DevOps, Product, Data, etc as in a dynamic startup atmosphere
-- Technology stack: 
+- Tech stack: 
   - Go, gin-gonic(HTTP framework), grpc
   - Data/middleware: Kafka, PostgresSQL, flyway, Snowflake (Data Warehouse), Matillion (ETL)
   - Microservices/Containers: Docker, Kubernetes, Helm, AWS
@@ -48,7 +48,7 @@ Also, I am a big fan of code quality, best practices, software craftsmanship and
 | *Equity Swaps Trading Developer - Associate* | | Dec 2018 - Feb 2019 | Hong Kong |
 
 - Develop applications for Delta One Structured Products trading globally, primarily on OTC equity swap trade capturing and analytics tools
-- Technology stack: Java 8, Spring Framework, KDB, Ivy, SOAP, Perforce
+- Tech stack: Java 8, Spring Framework, KDB, Ivy, SOAP, Perforce
 - Leaving reasons: to pursue other opportunity to work in an environment that: 
   1. values quality and maintainability as important as business requirement ([recognition of the importance of technical excellence](https://martinfowler.com/articles/agile-aus-2018.html))
   2. discourages ceremonies and encourages automation
@@ -76,9 +76,8 @@ Main projects:
 - Tools for traders simulate lend/borrow or TRS trades to optimize collateral and inventory in an interactive manner.
 - Implemented a python library to empower traders to script for exploring and optimizing their own positions.
 
-Technology stack:
-- Programming/Scripting languages: Java 8, Kotlin, Python, VBA, Angular 5, shell script
-- Technology stack and frameworks: 
+Tech stack:
+  - Programming/Scripting languages: Java 8, Kotlin, Python, VBA, Angular 5, shell script 
   - Spring Boot, Maven, Google Guava
   - MS SQL Server, MongoDB, Flyway
   - Spring Cloud, Netflix Zuul, Feign, Hystrix, HashiCorp Consul, ELK (Elastic Logstash Kibana), OAuth2, Swagger, InfluxDB/Chronograf
