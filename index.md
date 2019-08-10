@@ -123,8 +123,7 @@ Internet Computing, OOP, Business Process Management System
 
 ---
 # Interested Areas & Hobbies
-- Reactive Programming
-  - Spring WebFlux, Reactor
+- [See also](./hobbies)
 - Data-intensive computing
   - Studied big data course during master degree which introduced MapReduce, PigLatin, and Spark;
 - Machine Learning
