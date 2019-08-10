@@ -8,19 +8,40 @@ layout: default
 
 Hi! I am a technology enthusiast, come from a diverse background, with basic financial knowledge and hands-on software development experiences. 
 
-I love to keep pace with mass geeky communities (esp. OSS) via tech blogs, news, podcasts, etc so that I won't miss too many great technologies I can leverage to deliver effectively. And more importantly, funny stories about development experience. 
+I love to keep pace with mass geeky communities (esp. OSS) via tech blogs, news, podcasts, etc so that I won't miss too many great technologies I can leverage to deliver effectively. And more importantly, funny and useful stories about development experience. See also [my interested topics](./hobbies)
 
-I also care (very much) about code quality, best practices, software craftsmanship. and keen on progressive improvement about me, my team, and everything around me. Keen on explaining why I would like to refactor.
+Also, I am a big fan of code quality, best practices, software craftsmanship and MVP (Minimal Viable Product) spirit. I am keen on progressive improvement about me, my team, and everything around me.
 
 # Work Experence
 
+## Standard Chartered Bank - Virtual Bank (Not yet launch)
+
+| *Backend Developer* | |||| | Jul 2019 - Present | Hong Kong |
+
+- Develop shared libraries and microservices, e.g. spring boot starter, test framework/helpers in order to provide a consistent development environment and practices to fellow developers
+- Tech stack:
+  - Kotlin, Spring boot, JUnit5
+  - Data: Kafka, PostgresSQL, flyway
+  - Microservices/Containers: Docker, Kubernetes, AWS
+  - CI/CD: gradle, Jfrog, SonarQube, CircleCI, Spinnaker, HashiCorp Vault
+  - others: python, Swagger, Elastic, Kibana
+---
 ## YouTrip
 
-| *Software Engineer* | |||| | Apr 2019 - Present | Hong Kong |
+| *Software Engineer* | |||| | Apr 2019 - Jul 2019 | Hong Kong |
 
-- Technology stack: Go, Kafka, grpc, Kubernetes, BuildKite, AWS
+- Developed microservices for diffenrt FinTech business domains, e.g. FX, reporting, etc in event-driven architectural design
+- Promoted best practices about Agile, XP methodologies
+- Worked with the rest in the company altogether, like DevOps, Product, Data, etc as in a dynamic startup atmosphere
+- Technology stack: 
+  - Go, gin-gonic(HTTP framework), grpc
+  - Data/middleware: Kafka, PostgresSQL, flyway, Snowflake (Data Warehouse), Matillion (ETL)
+  - Microservices/Containers: Docker, Kubernetes, Helm, AWS
+  - CI/CD: BuildKite, ginkgo, k6
+  - APM: Elastic, Kibana, InfluxDB, Grafana
+  - scripting: python
 
-
+---
 ## Morgan Stanley
 
 | *Equity Swaps Trading Developer - Associate* | | Dec 2018 - Feb 2019 | Hong Kong |
@@ -29,7 +50,6 @@ I also care (very much) about code quality, best practices, software craftsmansh
 - Technology stack: Java 8, Spring Framework, KDB, Ivy, SOAP, Perforce
 - Leaving reasons: to pursue other opportunity to work in an environment that: 
   1. values quality and maintainability as important as business requirement ([recognition of the importance of technical excellence](https://martinfowler.com/articles/agile-aus-2018.html))
-  
   2. discourages ceremonies and encourages automation
   3. always connect to outside communities and has a great sense of retrospective introspection
 
@@ -105,12 +125,8 @@ Internet Computing, OOP, Business Process Management System
 # Interested Areas & Hobbies
 - Reactive Programming
   - Spring WebFlux, Reactor
-- Docker and cloud
-  - Went through tutorials in Pluralsight to be ready to embrace new efficient DevOps technology.
-  - Currently work on a toy project with DockerHub and Kubenetes
 - Data-intensive computing
   - Studied big data course during master degree which introduced MapReduce, PigLatin, and Spark;
-  - Completed Kafka online tutorial in Pluralsight
 - Machine Learning
   - Taking initiative to learn in Courseera and participating side projects to learn with the SocGen community.
 
