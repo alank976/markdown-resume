@@ -25,6 +25,7 @@ Also, I am a big fan of code quality, best practices, software craftsmanship and
   - Microservices/Containers: Docker, Kubernetes, AWS
   - CI/CD: gradle, Jfrog, SonarQube, CircleCI, Spinnaker, HashiCorp Vault
   - others: python, Swagger, Elastic, Kibana
+  
 ---
 ## YouTrip
 
