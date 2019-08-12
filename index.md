@@ -31,7 +31,7 @@ Also, I am a big fan of code quality, best practices, software craftsmanship and
 
 | *Software Engineer* | |||| | Apr 2019 - Jul 2019 | Hong Kong |
 
-- Developed microservices for diffenrt FinTech business domains, e.g. FX, reporting, etc in event-driven architectural design
+- Developed microservices for different FinTech business domains, e.g. FX, reporting, etc in event-driven architectural design
 - Promoted best practices about Agile, XP methodologies
 - Worked with the rest in the company altogether, like DevOps, Product, Data, etc as in a dynamic startup atmosphere
 - Tech stack: 
