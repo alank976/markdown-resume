@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I am a technology enthusiast who insists on developing things great and clean, with basic financial knowledge and hands-on software development experiences in FinTech and investment banking companies. 
+Hi! I am a technology enthusiast who insists on developing things great and clean. I have basic financial/quantitative knowledge and hands-on software development experiences in FinTech and investment banking companies.
 
-I love to keep pace with the mass geeky communities via Medium, Dev.to, podcasts, etc. That way, I won't miss too many great technologies I can leverage to deliver effectively, and more importantly, funny and useful stories about development. 
+I love to keep pace with the mass geeky communities via Medium, Dev.to, podcasts, etc. That way, I won’t miss too many great technologies I can leverage to deliver effectively. And more importantly, funny and useful stories about development.
 
-I grew up with Java, work great with Kotlin, Go, and Python, also become Rust fanatic lately. I am a big fan of code quality, software craftsmanship and MVP (Minimal Viable Product) mindset. I am keen on progressive improvement about me, my team, and everything around me.
+I grew up with Java, work great with Kotlin, Go, and Python, also become Rust fanatic lately. I am a big fan of code quality, software craftsmanship, and MVP (Minimal Viable Product) mindset. I am keen on progressive improvement about me, my team, and everything around me.
 
 # Work Experence
 
