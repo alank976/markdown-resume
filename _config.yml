@@ -1,5 +1,5 @@
 title: Alan Kan's CV
-url: "https://ankitsultana.com"
+url: "https://alank976.github.io/markdown-resume"
 baseurl: "/markdown-resume"
 
 markdown: kramdown
@@ -16,8 +16,6 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/markdown-resume/"
  - name: "Contact"
    link: "contact"
  - name: "Hobbies"
