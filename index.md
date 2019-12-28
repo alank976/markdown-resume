@@ -44,6 +44,7 @@ I grew up with Java, work great with Kotlin, Go, and Python, also become Rust fa
   - Test & CI/CD: BuildKite, ginkgo, k6
   - APM: Elastic, Kibana, InfluxDB, Grafana
   - scripting: python
+- Leaving reason: I applied Standard Chartered virtual bank in Feb 2019 before applying YouTrip. Though I love to explore new tech, I find my value can be further maximized if I work there because of the perfect match in tech stack.
 
 ---
 ## Morgan Stanley
