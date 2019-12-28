@@ -10,22 +10,24 @@ Hi! I am a technology enthusiast who insists on developing things great and clea
 
 I love to keep pace with the mass geeky communities via Medium, Dev.to, podcasts, etc. That way, I won’t miss too many great technologies I can leverage to deliver effectively. And more importantly, funny and useful stories about development.
 
-I grew up with Java, work great with Kotlin, Go, and Python, also become Rust fanatic lately. I am a big fan of code quality, software craftsmanship, and MVP (Minimal Viable Product) mindset. I am keen on progressive improvement about me, my team, and everything around me.
+I grew up with Java, work great with Kotlin, Go, and Python, also become Rust fanatic lately. I am a big fan of code quality, software craftsmanship, and MVP (Minimal Viable Product) mindset. I am keen on progressive improvement about me, my team, and the vicinity.
 
 # Work Experence
 
-## Standard Chartered Bank - Virtual Bank (Not yet launch)
+## Standard Chartered Virtual Bank (Not yet launch)
 
 | *Backend Developer* | |||| | Jul 2019 - Present | Hong Kong |
 
-- Develop microservices in event-driven manner for the FinTech business and shared libraries e.g. spring boot starter, test framework/helpers in order to provide a consistent development environment and practices to fellow developers
+- Develop microservices in event-driven manner for the FinTech business and shared libraries e.g. spring boot starter, gradle plugins, test framework in order to provide a consistent development environment and practices to fellow developers
+- Develop notification and OTP verification microservices
+- Involve in design and architectural discussion and implementation, e.g. idempotency, API contract-first design, fault tolerance
 
 - Tech stack:
   - Kotlin, Spring boot
   - Data: Kafka, PostgresSQL, flyway, Redis
   - Microservices/Containers: Docker, Kubernetes, AWS
-  - Test & CI/CD: JUnit5, Gradle, Jfrog, SonarQube, CircleCI, Spinnaker, HashiCorp Vault
-  - others: Python, Swagger, Elastic, Kibana
+  - Test & CI/CD: JUnit5, Gradle, Jfrog, Sonar, CircleCI, Spinnaker, Helm, HashiCorp Vault
+  - others: Python, OpenAPI3, Swagger, Elastic, Kibana, Datadog, OAuth2
 
 ---
 ## YouTrip
@@ -79,7 +81,7 @@ Main projects:
 
 Tech stack:
   - Programming/Scripting languages: Java 8, Kotlin, Python, VBA, Angular 5, shell script 
-  - Spring Boot, Maven, Google Guava
+  - Spring Boot, Maven, Google Guava, Kotlin coroutine
   - MS SQL Server, MongoDB, Flyway
   - Spring Cloud, Netflix Zuul, Feign, Hystrix, HashiCorp Consul, ELK (Elastic Logstash Kibana), OAuth2, Swagger, InfluxDB/Chronograf
   - Mockito, Cucumber, JUnit 4&5, mockk, AssertJ
