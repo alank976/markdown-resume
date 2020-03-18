@@ -14,11 +14,11 @@ I grew up with Java, work great with Kotlin, Go, and Python, also become Rust fa
 
 # Work Experence
 
-## Standard Chartered Virtual Bank (Not yet launch)
+## [Mox Bank](https://mox.com/)
 
-| *Backend Developer* | |||| | Jul 2019 - Present | Hong Kong |
+| *Backend Engineer* | |||| | Jul 2019 - Present | Hong Kong |
 
-- Develop microservices in event-driven manner for the FinTech business and shared libraries e.g. spring boot starter, gradle plugins, test framework in order to provide a consistent development environment and practices to fellow developers
+- Develop microservices in event-driven manner for the FinTech (Virtual Bank) business and shared libraries e.g. spring boot starter, gradle plugins, test framework in order to provide a consistent development environment and practices to fellow developers
 - Develop notification and OTP verification microservices
 - Involve in design and architectural discussion and implementation, e.g. idempotency, API contract-first design, fault tolerance
 
