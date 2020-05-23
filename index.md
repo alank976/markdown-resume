@@ -26,7 +26,7 @@ I grew up with Java, work great with Kotlin, Go, and Python, also become Rust fa
 - Tech stack:
   - Kotlin, Java, Spring boot
   - Data: Kafka, Postgres, flyway, Redis
-  - Microservices/Containers: Docker, Kubernetes, AWS
+  - Microservices/Containers: Docker, Kubernetes, Istio, AWS
   - Test & CI/CD: JUnit5, mockk, Gradle, Jfrog, Sonar, CircleCI, Spinnaker, Helm, HashiCorp Vault
   - Others: Python, OpenAPI, Elastic, Kibana, Datadog, OAuth2
 
