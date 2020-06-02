@@ -69,27 +69,15 @@ I grew up with Java, work great with Kotlin, Go, and Python, also become Rust fa
 - Deliver quality solution to support business growth and also care code cleanliness, and maintainability
 - Leverage latest technologies and software craftsmanship methodologies to further improve quality of end product and also team productivity
 
----
-
-Main projects:
-> **Synthetic prime brokerage trade lifecycle management system**
-- Enrich trade according to pre-configured data, allocation given by clients, and book trades without human intervention.
-- Event Sourcing and Command Query Responsibility Segregation (CQRS) design patterns are used so that trades can be viewed instantly (asynchronously) and modifying commands are handled separately.
-- Support multiple server instances running simultaneously as both command workers and accepting trade queries to provide resiliency and scalability in production.
-
-> **Security Financing inventory management system and tools**
-- Tools for traders simulate lend/borrow or TRS trades to optimize collateral and inventory in an interactive manner.
-- Implemented a python library to empower traders to script for exploring and optimizing their own positions.
-
 Tech stack:
   - Programming/Scripting languages: Java 8, Kotlin, Python, VBA, Angular 5, shell script 
   - Spring Boot, Maven, Google Guava, Kotlin coroutine
   - MS SQL Server, MongoDB, Flyway
-  - Spring Cloud, Netflix Zuul, Feign, Hystrix, HashiCorp Consul, ELK (Elastic Logstash Kibana), OAuth2, Swagger, InfluxDB/Chronograf
+  - Spring Cloud, Zuul, Feign, Hystrix, HashiCorp Consul, ELK (Elastic Logstash Kibana), OAuth2, Swagger, InfluxDB/Chronograf
   - Mockito, Cucumber, JUnit 4&5, mockk, AssertJ
   - git, github, Jenkins, Linux
   - Jupyter notebook, pandas, qgrid, conda
-- Technical methodologies and architectures: DDD (Domain Driven Design), CQRS, Event Sourcing, TDD, BDD, RESTful API, microservices, CI/CD
+- Technical methodologies and architectures: DDD (Domain Driven Design), CQRS, Event Sourcing, TDD, BDD, RESTful API, microservices, CI/CD, Pair Programming
 
 ---
 ## Standard Chartered Bank
